@@ -5,9 +5,11 @@ body {
 }
 
 header {
-  background: url(https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_scrim.png) 0 50% repeat-x;
+  background: url(../images/apple-background.jpg) 50% 100% no-repeat;
+  background-size: cover;
   padding-top: 2em;
   font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  color: white;
   display: block;
   height: 70vh;
 }
@@ -32,6 +34,7 @@ header section, header nav {
 header section {
   width: 60%;
   font-size: 1.5rem;
+  padding: 50px 0;
 }
 
 header nav {
