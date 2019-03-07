@@ -1,5 +1,16 @@
 body {
 	display: block;
-	width: 80%;
+	width: 98%;
 	margin: auto;
+}
+
+/* ************GRID OF IMAGES*********** */
+.grid-images{
+	width: 98%;
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+.grid-images img{
+	width: 335px;
 }
