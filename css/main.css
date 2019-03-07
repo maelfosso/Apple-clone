@@ -93,3 +93,24 @@ header nav ul li:last-child a {
 .grid-images img{
 	width: 330.5px;
 }
+
+/* *************FOOTER************ */
+.footer{
+	display: flex;
+	width: 100%;
+}
+
+.sub-footer1{
+	margin-top: 15px;
+	width: 50%;
+	margin-left: 15%;
+	font-family: "nyt-franklin",arial,helvetica,sans-serif;
+	font-size: 10px;
+}
+
+.sub-footer2{
+	width: 50%;
+	margin-top: 15px;
+	font-family: "nyt-franklin",arial,helvetica,sans-serif;
+	font-size: 10px;
+}
