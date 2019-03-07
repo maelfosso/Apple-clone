@@ -109,6 +109,7 @@ header nav ul li:last-child a {
 }
 
 .sub-footer2{
+	margin-right: 15%;
 	width: 50%;
 	margin-top: 15px;
 	font-family: "nyt-franklin",arial,helvetica,sans-serif;
