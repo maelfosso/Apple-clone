@@ -1,7 +1,8 @@
 body {
 	display: block;
 	width: 98%;
-	margin: auto;
+	margin-left: 15px;
+	margin-right: 15px;
 }
 
 header {
@@ -102,7 +103,7 @@ header nav ul li:last-child a {
 }
 
 .grid-images img{
-	width: 330.5px;
+	width: 25%;
 }
 
 /* *************FOOTER************ */
