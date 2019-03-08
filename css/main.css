@@ -1,6 +1,6 @@
 body {
 	display: block;
-	width: 80%;
+	width: 98%;
 	margin: auto;
 }
 
@@ -81,4 +81,15 @@ header nav ul li:first-child a {
 
 header nav ul li:last-child a {
   border-radius: 0 6px 6px 0;
+}
+
+/* ************GRID OF IMAGES*********** */
+.grid-images{
+	width: 98%;
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+.grid-images img{
+	width: 335px;
 }
