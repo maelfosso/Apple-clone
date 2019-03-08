@@ -1,7 +1,8 @@
 body {
 	display: block;
-	width: 98%;
-	margin: auto;
+	width: 100%;
+	margin-left: 15px;
+	margin-right: 15px;
 }
 
 header {
@@ -84,14 +85,14 @@ header nav ul li:last-child a {
 }
 /* ************GRID OF IMAGES*********** */
 .grid-images{
-	width: 98%;
+	width: 100%;
 	display: flex;
 	flex-wrap: nowrap;
 	margin-top: 1.8px;
 }
 
 .grid-images img{
-	width: 330.5px;
+	width: 25%;
 }
 
 /* *************FOOTER************ */
