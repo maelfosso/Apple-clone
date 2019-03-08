@@ -19,7 +19,7 @@ header h1 {
 	font-size: 4rem;
 	line-height: 36px;
 	margin-bottom: 1em;
-	margin-top: 1.25em;
+	/*margin-top: 1.25em;*/
 }
 
 header h2 {
@@ -83,23 +83,34 @@ header nav ul li:first-child a {
 header nav ul li:last-child a {
 	border-radius: 0 6px 6px 0;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 51a2fba5b73b05a17f6e9186c9b8280702197500
+.input-search {
+	display: flex;
+  padding: 7px 10px 5px 10px
+}
+
+.input-search span {
+	position: absolute;
+	margin-left: 5px;
+}
+
+.input-search input {
+	width: 100%;
+  height: 22px;
+	padding: 2px 18px 1px 22px;
+  background-image: none;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  background: none;
+	border: 0 none;
+  box-shadow: rgba(0, 0, 0, 0.6) 0 2px 1px inset, rgba(255, 255, 255, 0.2) 0 1px;
+}
 /* ************GRID OF IMAGES*********** */
 .grid-images{
 	width: 98%;
 	display: flex;
 	flex-wrap: nowrap;
-<<<<<<< HEAD
-}
-
-.grid-images img{
-	width: 335px;
-}
-=======
-	margin-top: 1.8px;
 }
 
 .grid-images img{
@@ -127,4 +138,3 @@ header nav ul li:last-child a {
 	font-family: "nyt-franklin",arial,helvetica,sans-serif;
 	font-size: 10px;
 }
->>>>>>> 51a2fba5b73b05a17f6e9186c9b8280702197500
