@@ -85,7 +85,7 @@ header nav ul li:last-child a {
 }
 /* ************GRID OF IMAGES*********** */
 .grid-images{
-	width: 98%;
+	width: 100%;
 	display: flex;
 	flex-wrap: nowrap;
 	margin-top: 1.8px;
